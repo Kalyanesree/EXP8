@@ -1,5 +1,9 @@
 # D-FLIPDLOP-NEGEDGE
 
+DEVELOPED BY: KALYANE SREE M  
+
+REG NO: 212222050028
+
 **AIM:**
 
 To implement  D flipflop using verilog and validating their functionality using their functional tables
